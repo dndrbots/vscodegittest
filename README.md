@@ -1,8 +1,8 @@
-_text_
-__text__
-*text*
-**text**
-#text
+_text_\n
+__text__\n
+*text*\n
+**text**\n
+#text\n
 <h1>text</h1>
 <h2>text</h2>
 <h3>text</h3>
