@@ -1,1 +1,10 @@
-# I deleted everyting cuzynot :shrug:
+_text_
+__text__
+*text*
+**text**
+#text
+<h1>text</h1>
+<h2>text</h2>
+<h3>text</h3>
+<p>text</p>
+<button>text</button>
